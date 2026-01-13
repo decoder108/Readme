@@ -1,4 +1,4 @@
-# Readme
+# About me
  Hi, I’m @priyankathedecoder
 - 👀 I’m interested in bioinformatics!
 - 🌱 I’m currently learning to code.
