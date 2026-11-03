@@ -1,4 +1,4 @@
-# Hi there, I'm Priyanka Singh! 👋
+# Hi there, I'm Priyanka Singh!
 
 ### 🧬 Bioinformatics • Machine Learning • Biomedical AI
 
